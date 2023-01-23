@@ -1,5 +1,3 @@
-console.log("Hello Havij");
-
 setTimeout(function () {
   console.log("Asynchronous result");
 }, 5000);
